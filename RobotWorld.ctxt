@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RobotWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ RobotWorld\ here.\n\ \n\ @author\ (Diego\ Prieto)\ \n\ @version\ (1.0.0)\n
+comment1.params=
+comment1.target=RobotWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RobotWorld.\n\ \n
+comment2.params=
+comment2.target=void\ setUpLevel()
+comment2.text=\n\ Change\ the\ speed\ of\ the\ block.\n\ Re-locate\ pizzas\ positions.\n
+comment3.params=
+comment3.target=void\ increaseLevel()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=5
